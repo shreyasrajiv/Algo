@@ -1,2 +1,2 @@
 # Algo
-Code for programming assignments in JavaScript from the Coursera Algorithms course
+Programming assignments in JavaScript from the Coursera Algorithms course
